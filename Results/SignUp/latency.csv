@@ -1,0 +1,6 @@
+Latency,	No Blockchain,	2 Orderer,	3 Orderer
+10 Users,	106,	598,	653
+20 Users,	155,	1275,	829
+50 Users,	210,	2006,	2243
+100 Users,	491,	4519,	3428
+150 Users,	559,	6892,	6561

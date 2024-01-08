@@ -2,6 +2,6 @@
 
 Federated Identity Management has proven its worth by offering economic benefits and convenience to Service Providers and users alike. In such federations, the Identity Provider (IdP) is the solitary entity responsible for managing user credentials and generating assertions for the users, who are requesting access to a service provider's resource. This makes the IdP centralised and exhibits a single point of failure for the federation, making the federation prone to catastrophic damages. The paper presents our effort in designing and implementing a decentralised system in establishing an identity federation. In its attempt to decentralise the IdP in the federation, the proposed system relies on blockchain technology, thereby mitigating the single point of failure shortcoming of existing identity federations. The system is designed using a set of requirements In this article, we explore different aspects of designing and developing the system, present its protocol flow, analyse its performance, and evaluate its security using ProVerif, a state-of-the-art formal protocol verification tool.
 
-preprint: (arxiv)[https://arxiv.org/abs/2305.00315]
+preprint: [arxiv](https://arxiv.org/abs/2305.00315)
 
 This repository contains the results of the simulations test.
